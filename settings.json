@@ -1,0 +1,872 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vsicons.dontShowNewVersionMessage": true,
+    "sync.autoUpload": false,
+    "sync.autoDownload": true,
+    "python.jediEnabled": false,
+    "sync.gist": "b88fbbd095a8e9b90dd30bdc135d3195",
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "default",
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": true,
+    "codespaces.accountProvider": "Microsoft",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 601000,
+    "editor.cursorWidth": 2,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.padding.top": 5,
+    "editor.padding.bottom": 5,
+    "editor.mouseWheelZoom": true,
+    "editor.quickSuggestions": null,
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "files.autoGuessEncoding": true,
+    "editor.find.autoFindInSelection": "multiline",
+    "window.zoomLevel": 0,
+    "sync.forceUpload": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": true,
+    "java.semanticHighlighting.enabled": true,
+    "cSpell.enableFiletypes": [
+        "sass",
+        "sql",
+        "xml"
+    ],
+    "python.languageServer": "Microsoft",
+    "todo-tree.tree.showScanModeButton": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "html.format.indentInnerHtml": true,
+    "breadcrumbs.enabled": true,
+    "python.pythonPath": "C:\\Users\\Alpha\\anaconda3\\python.exe",
+    "git.autofetch": true,
+    "editor.renameOnType": true,
+    "debug.openExplorerOnEnd": true,
+    "browser-preview.chromeExecutable": "C:\\Users\\Alpha\\AppData\\Local\\Chromium\\Application\\chrome.exe",
+    "browser-preview.startUrl": "file:///",
+    "profileSwitcher.profiles": [
+        "July2020",
+        "test24font"
+    ],
+    "profileSwitcher.storage": {
+        "July2020": {
+            "workbench.colorTheme": "One Dark Pro",
+            "workbench.iconTheme": "material-icon-theme",
+            "editor.suggestSelection": "first",
+            "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+            "vsicons.dontShowNewVersionMessage": true,
+            "sync.autoUpload": false,
+            "sync.autoDownload": true,
+            "python.jediEnabled": false,
+            "sync.gist": "b88fbbd095a8e9b90dd30bdc135d3195",
+            "workbench.statusBar.visible": true,
+            "window.menuBarVisibility": "default",
+            "workbench.sideBar.location": "left",
+            "workbench.activityBar.visible": true,
+            "codespaces.accountProvider": "Microsoft",
+            "files.autoSave": "afterDelay",
+            "files.autoSaveDelay": 601000,
+            "editor.cursorWidth": 2,
+            "editor.cursorBlinking": "phase",
+            "editor.cursorSmoothCaretAnimation": true,
+            "editor.tabCompletion": "onlySnippets",
+            "editor.padding.top": 5,
+            "editor.padding.bottom": 5,
+            "editor.mouseWheelZoom": true,
+            "editor.quickSuggestions": null,
+            "workbench.preferredDarkColorTheme": "One Dark Pro",
+            "files.autoGuessEncoding": true,
+            "editor.find.autoFindInSelection": "multiline",
+            "window.zoomLevel": 0,
+            "sync.forceUpload": false,
+            "editor.formatOnPaste": false,
+            "editor.formatOnSave": false,
+            "editor.formatOnType": true,
+            "java.semanticHighlighting.enabled": true,
+            "cSpell.enableFiletypes": [
+                "sql",
+                "xml"
+            ],
+            "python.languageServer": "Microsoft",
+            "todo-tree.tree.showScanModeButton": false,
+            "[html]": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            },
+            "html.format.indentInnerHtml": true,
+            "editor.renderWhitespace": "all",
+            "breadcrumbs.enabled": true,
+            "python.pythonPath": "C:\\Users\\Alpha\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+            "materialTheme.accent": "Bright Teal",
+            "git.autofetch": true,
+            "editor.renameOnType": true,
+            "debug.openExplorerOnEnd": true,
+            "browser-preview.chromeExecutable": "C:\\Users\\Alpha\\AppData\\Local\\Chromium\\Application\\chrome.exe",
+            "browser-preview.startUrl": "file:///",
+            "liveServer.settings.useBrowserPreview": true,
+            "liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+        },
+        "test24font": {
+            "workbench.colorTheme": "Ayu Mirage",
+            "workbench.iconTheme": "material-icon-theme",
+            "editor.suggestSelection": "first",
+            "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+            "vsicons.dontShowNewVersionMessage": true,
+            "sync.autoUpload": false,
+            "sync.autoDownload": true,
+            "python.jediEnabled": false,
+            "sync.gist": "b88fbbd095a8e9b90dd30bdc135d3195",
+            "workbench.statusBar.visible": true,
+            "window.menuBarVisibility": "default",
+            "workbench.sideBar.location": "left",
+            "workbench.activityBar.visible": true,
+            "codespaces.accountProvider": "Microsoft",
+            "files.autoSave": "afterDelay",
+            "files.autoSaveDelay": 601000,
+            "editor.cursorWidth": 2,
+            "editor.cursorBlinking": "phase",
+            "editor.cursorSmoothCaretAnimation": true,
+            "editor.tabCompletion": "onlySnippets",
+            "editor.padding.top": 5,
+            "editor.padding.bottom": 5,
+            "editor.mouseWheelZoom": true,
+            "editor.quickSuggestions": null,
+            "workbench.preferredDarkColorTheme": "One Dark Pro",
+            "files.autoGuessEncoding": true,
+            "editor.find.autoFindInSelection": "multiline",
+            "window.zoomLevel": 0,
+            "sync.forceUpload": false,
+            "editor.formatOnPaste": false,
+            "editor.formatOnSave": false,
+            "editor.formatOnType": true,
+            "java.semanticHighlighting.enabled": true,
+            "cSpell.enableFiletypes": [
+                "sql",
+                "xml"
+            ],
+            "python.languageServer": "Microsoft",
+            "todo-tree.tree.showScanModeButton": false,
+            "[html]": {
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            },
+            "html.format.indentInnerHtml": true,
+            "editor.renderWhitespace": "all",
+            "breadcrumbs.enabled": false,
+            "python.pythonPath": "C:\\Users\\Alpha\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+            "materialTheme.accent": "Bright Teal",
+            "git.autofetch": true,
+            "editor.renameOnType": true,
+            "debug.openExplorerOnEnd": true,
+            "browser-preview.chromeExecutable": "C:\\Users\\Alpha\\AppData\\Local\\Chromium\\Application\\chrome.exe",
+            "browser-preview.startUrl": "file:///",
+            "editor.fontSize": 24
+        }
+    },
+    "profileSwitcher.extensions": {
+        "July2020": [
+            {
+                "id": "7a0110bb-231a-4598-aa1b-0769ea46d28b",
+                "publisherId": "aaron-bond.better-comments",
+                "publisherName": "aaron-bond",
+                "version": "2.1.0",
+                "name": "better-comments"
+            },
+            {
+                "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+                "publisherId": "akamud.vscode-theme-onedark",
+                "publisherName": "akamud",
+                "version": "2.2.2",
+                "name": "vscode-theme-onedark"
+            },
+            {
+                "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
+                "publisherId": "alefragnani.Bookmarks",
+                "publisherName": "alefragnani",
+                "version": "11.3.1",
+                "name": "Bookmarks"
+            },
+            {
+                "id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
+                "publisherId": "alefragnani.project-manager",
+                "publisherName": "alefragnani",
+                "version": "11.1.0",
+                "name": "project-manager"
+            },
+            {
+                "id": "d71e5d0c-0ee7-4376-b5c5-fc86de75fde1",
+                "publisherId": "angelo-breuer.clock",
+                "publisherName": "angelo-breuer",
+                "version": "1.0.1",
+                "name": "clock"
+            },
+            {
+                "id": "126e4983-78cb-433f-a67c-9b07c39c7802",
+                "publisherId": "auchenberg.vscode-browser-preview",
+                "publisherName": "auchenberg",
+                "version": "0.6.7",
+                "name": "vscode-browser-preview"
+            },
+            {
+                "id": "0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9",
+                "publisherId": "bierner.color-info",
+                "publisherName": "bierner",
+                "version": "0.5.1",
+                "name": "color-info"
+            },
+            {
+                "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+                "publisherId": "christian-kohler.path-intellisense",
+                "publisherName": "christian-kohler",
+                "version": "2.2.1",
+                "name": "path-intellisense"
+            },
+            {
+                "id": "0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e",
+                "publisherId": "codingyu.laravel-goto-view",
+                "publisherName": "codingyu",
+                "version": "1.3.3",
+                "name": "laravel-goto-view"
+            },
+            {
+                "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+                "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+                "publisherName": "CoenraadS",
+                "version": "0.2.0",
+                "name": "bracket-pair-colorizer-2"
+            },
+            {
+                "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+                "publisherId": "DavidAnson.vscode-markdownlint",
+                "publisherName": "DavidAnson",
+                "version": "0.36.1",
+                "name": "vscode-markdownlint"
+            },
+            {
+                "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+                "publisherId": "dbaeumer.vscode-eslint",
+                "publisherName": "dbaeumer",
+                "version": "2.1.8",
+                "name": "vscode-eslint"
+            },
+            {
+                "id": "de68ef52-c4dc-442f-b4d2-64ee29729c37",
+                "publisherId": "docsmsft.docs-preview",
+                "publisherName": "docsmsft",
+                "version": "0.3.52",
+                "name": "docs-preview"
+            },
+            {
+                "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+                "publisherId": "eamodio.gitlens",
+                "publisherName": "eamodio",
+                "version": "10.2.2",
+                "name": "gitlens"
+            },
+            {
+                "id": "484d897a-6711-403c-ab54-a96f12be5833",
+                "publisherId": "Equinusocio.vsc-community-material-theme",
+                "publisherName": "Equinusocio",
+                "version": "1.4.1",
+                "name": "vsc-community-material-theme"
+            },
+            {
+                "id": "dffaf5a1-2219-434b-9d87-cb586fd59260",
+                "publisherId": "Equinusocio.vsc-material-theme",
+                "publisherName": "Equinusocio",
+                "version": "32.8.0",
+                "name": "vsc-material-theme"
+            },
+            {
+                "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+                "publisherId": "esbenp.prettier-vscode",
+                "publisherName": "esbenp",
+                "version": "5.1.3",
+                "name": "prettier-vscode"
+            },
+            {
+                "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+                "publisherId": "formulahendry.auto-close-tag",
+                "publisherName": "formulahendry",
+                "version": "0.5.8",
+                "name": "auto-close-tag"
+            },
+            {
+                "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+                "publisherId": "formulahendry.auto-rename-tag",
+                "publisherName": "formulahendry",
+                "version": "0.1.4",
+                "name": "auto-rename-tag"
+            },
+            {
+                "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+                "publisherId": "formulahendry.code-runner",
+                "publisherName": "formulahendry",
+                "version": "0.11.0",
+                "name": "code-runner"
+            },
+            {
+                "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+                "publisherId": "HookyQR.beautify",
+                "publisherName": "HookyQR",
+                "version": "1.5.0",
+                "name": "beautify"
+            },
+            {
+                "id": "666c438a-9caf-4237-8e29-c465c3338e88",
+                "publisherId": "icao.electron-vue",
+                "publisherName": "icao",
+                "version": "2.4.0",
+                "name": "electron-vue"
+            },
+            {
+                "id": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
+                "publisherId": "kisstkondoros.vscode-gutter-preview",
+                "publisherName": "kisstkondoros",
+                "version": "0.26.2",
+                "name": "vscode-gutter-preview"
+            },
+            {
+                "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+                "publisherId": "ms-python.python",
+                "publisherName": "ms-python",
+                "version": "2020.7.94776",
+                "name": "python"
+            },
+            {
+                "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+                "publisherId": "ms-vscode-remote.remote-wsl",
+                "publisherName": "ms-vscode-remote",
+                "version": "0.44.4",
+                "name": "remote-wsl"
+            },
+            {
+                "id": "cc7d2112-5178-4472-8e0e-25dced95e7f0",
+                "publisherId": "ms-vscode.hexeditor",
+                "publisherName": "ms-vscode",
+                "version": "1.1.0",
+                "name": "hexeditor"
+            },
+            {
+                "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+                "publisherId": "msjsdiag.debugger-for-chrome",
+                "publisherName": "msjsdiag",
+                "version": "4.12.9",
+                "name": "debugger-for-chrome"
+            },
+            {
+                "id": "b9484b93-0531-4fd3-b3dd-9ff58dcfe678",
+                "publisherId": "natqe.reload",
+                "publisherName": "natqe",
+                "version": "0.0.6",
+                "name": "reload"
+            },
+            {
+                "id": "568a8977-8469-4f89-b30d-8d5e3c7a0ce7",
+                "publisherId": "negokaz.live-server-preview",
+                "publisherName": "negokaz",
+                "version": "0.1.4",
+                "name": "live-server-preview"
+            },
+            {
+                "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+                "publisherId": "octref.vetur",
+                "publisherName": "octref",
+                "version": "0.24.0",
+                "name": "vetur"
+            },
+            {
+                "id": "a9151cd6-3338-48bc-bc6e-ba97e22489dd",
+                "publisherId": "Perkovec.emoji",
+                "publisherName": "Perkovec",
+                "version": "0.0.3",
+                "name": "emoji"
+            },
+            {
+                "id": "5db78037-f674-459f-a236-db622c427c5b",
+                "publisherId": "PKief.material-icon-theme",
+                "publisherName": "PKief",
+                "version": "4.2.0",
+                "name": "material-icon-theme"
+            },
+            {
+                "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+                "publisherId": "ritwickdey.LiveServer",
+                "publisherName": "ritwickdey",
+                "version": "5.6.1",
+                "name": "LiveServer"
+            },
+            {
+                "id": "84d4a562-c19b-4b30-b8f8-8e02eaf02fa2",
+                "publisherId": "sandcastle.vscode-open",
+                "publisherName": "sandcastle",
+                "version": "0.1.0",
+                "name": "vscode-open"
+            },
+            {
+                "id": "c919f1b2-3705-431b-9cfd-bb0f6f3c9720",
+                "publisherId": "softwaredotcom.swdc-vscode",
+                "publisherName": "softwaredotcom",
+                "version": "2.2.32",
+                "name": "swdc-vscode"
+            },
+            {
+                "id": "687728d4-a337-4ea9-8a33-2297b2ce1391",
+                "publisherId": "spikespaz.vscode-smoothtype",
+                "publisherName": "spikespaz",
+                "version": "1.2.0",
+                "name": "vscode-smoothtype"
+            },
+            {
+                "id": "70378119-1d85-4935-9733-0298c7a369a2",
+                "publisherId": "steoates.autoimport",
+                "publisherName": "steoates",
+                "version": "1.5.3",
+                "name": "autoimport"
+            },
+            {
+                "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+                "publisherId": "streetsidesoftware.code-spell-checker",
+                "publisherName": "streetsidesoftware",
+                "version": "1.9.0",
+                "name": "code-spell-checker"
+            },
+            {
+                "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
+                "publisherId": "stylelint.vscode-stylelint",
+                "publisherName": "stylelint",
+                "version": "0.84.0",
+                "name": "vscode-stylelint"
+            },
+            {
+                "id": "5178733e-4b02-4829-95c5-1ce970847c23",
+                "publisherId": "teabyii.ayu",
+                "publisherName": "teabyii",
+                "version": "0.20.1",
+                "name": "ayu"
+            },
+            {
+                "id": "fef63133-dae3-40fb-b81d-6da7617b4b1e",
+                "publisherId": "techer.open-in-browser",
+                "publisherName": "techer",
+                "version": "2.0.0",
+                "name": "open-in-browser"
+            },
+            {
+                "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+                "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+                "publisherName": "VisualStudioExptTeam",
+                "version": "1.2.9",
+                "name": "vscodeintellicode"
+            },
+            {
+                "id": "0e8e71fb-6b26-4602-8e4a-1741a7b40a08",
+                "publisherId": "Wscats.eno",
+                "publisherName": "Wscats",
+                "version": "2.3.2",
+                "name": "eno"
+            },
+            {
+                "id": "8bd90cfe-8edd-4b92-b992-2337fdc06604",
+                "publisherId": "wwm.better-align",
+                "publisherName": "wwm",
+                "version": "1.1.6",
+                "name": "better-align"
+            },
+            {
+                "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+                "publisherId": "zhuangtongfa.material-theme",
+                "publisherName": "zhuangtongfa",
+                "version": "3.8.3",
+                "name": "material-theme"
+            }
+        ],
+        "test24font": [
+            {
+                "id": "7a0110bb-231a-4598-aa1b-0769ea46d28b",
+                "publisherId": "aaron-bond.better-comments",
+                "publisherName": "aaron-bond",
+                "version": "2.1.0",
+                "name": "better-comments"
+            },
+            {
+                "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+                "publisherId": "akamud.vscode-theme-onedark",
+                "publisherName": "akamud",
+                "version": "2.2.2",
+                "name": "vscode-theme-onedark"
+            },
+            {
+                "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
+                "publisherId": "alefragnani.Bookmarks",
+                "publisherName": "alefragnani",
+                "version": "11.3.1",
+                "name": "Bookmarks"
+            },
+            {
+                "id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
+                "publisherId": "alefragnani.project-manager",
+                "publisherName": "alefragnani",
+                "version": "11.1.0",
+                "name": "project-manager"
+            },
+            {
+                "id": "d71e5d0c-0ee7-4376-b5c5-fc86de75fde1",
+                "publisherId": "angelo-breuer.clock",
+                "publisherName": "angelo-breuer",
+                "version": "1.0.1",
+                "name": "clock"
+            },
+            {
+                "id": "126e4983-78cb-433f-a67c-9b07c39c7802",
+                "publisherId": "auchenberg.vscode-browser-preview",
+                "publisherName": "auchenberg",
+                "version": "0.6.7",
+                "name": "vscode-browser-preview"
+            },
+            {
+                "id": "0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9",
+                "publisherId": "bierner.color-info",
+                "publisherName": "bierner",
+                "version": "0.5.1",
+                "name": "color-info"
+            },
+            {
+                "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+                "publisherId": "christian-kohler.path-intellisense",
+                "publisherName": "christian-kohler",
+                "version": "2.2.1",
+                "name": "path-intellisense"
+            },
+            {
+                "id": "0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e",
+                "publisherId": "codingyu.laravel-goto-view",
+                "publisherName": "codingyu",
+                "version": "1.3.3",
+                "name": "laravel-goto-view"
+            },
+            {
+                "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+                "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+                "publisherName": "CoenraadS",
+                "version": "0.2.0",
+                "name": "bracket-pair-colorizer-2"
+            },
+            {
+                "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+                "publisherId": "DavidAnson.vscode-markdownlint",
+                "publisherName": "DavidAnson",
+                "version": "0.36.1",
+                "name": "vscode-markdownlint"
+            },
+            {
+                "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+                "publisherId": "dbaeumer.vscode-eslint",
+                "publisherName": "dbaeumer",
+                "version": "2.1.8",
+                "name": "vscode-eslint"
+            },
+            {
+                "id": "de68ef52-c4dc-442f-b4d2-64ee29729c37",
+                "publisherId": "docsmsft.docs-preview",
+                "publisherName": "docsmsft",
+                "version": "0.3.52",
+                "name": "docs-preview"
+            },
+            {
+                "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+                "publisherId": "eamodio.gitlens",
+                "publisherName": "eamodio",
+                "version": "10.2.2",
+                "name": "gitlens"
+            },
+            {
+                "id": "484d897a-6711-403c-ab54-a96f12be5833",
+                "publisherId": "Equinusocio.vsc-community-material-theme",
+                "publisherName": "Equinusocio",
+                "version": "1.4.1",
+                "name": "vsc-community-material-theme"
+            },
+            {
+                "id": "dffaf5a1-2219-434b-9d87-cb586fd59260",
+                "publisherId": "Equinusocio.vsc-material-theme",
+                "publisherName": "Equinusocio",
+                "version": "32.8.0",
+                "name": "vsc-material-theme"
+            },
+            {
+                "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+                "publisherId": "esbenp.prettier-vscode",
+                "publisherName": "esbenp",
+                "version": "5.1.3",
+                "name": "prettier-vscode"
+            },
+            {
+                "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+                "publisherId": "formulahendry.auto-close-tag",
+                "publisherName": "formulahendry",
+                "version": "0.5.8",
+                "name": "auto-close-tag"
+            },
+            {
+                "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+                "publisherId": "formulahendry.auto-rename-tag",
+                "publisherName": "formulahendry",
+                "version": "0.1.4",
+                "name": "auto-rename-tag"
+            },
+            {
+                "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+                "publisherId": "formulahendry.code-runner",
+                "publisherName": "formulahendry",
+                "version": "0.11.0",
+                "name": "code-runner"
+            },
+            {
+                "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+                "publisherId": "HookyQR.beautify",
+                "publisherName": "HookyQR",
+                "version": "1.5.0",
+                "name": "beautify"
+            },
+            {
+                "id": "666c438a-9caf-4237-8e29-c465c3338e88",
+                "publisherId": "icao.electron-vue",
+                "publisherName": "icao",
+                "version": "2.4.0",
+                "name": "electron-vue"
+            },
+            {
+                "id": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
+                "publisherId": "kisstkondoros.vscode-gutter-preview",
+                "publisherName": "kisstkondoros",
+                "version": "0.26.2",
+                "name": "vscode-gutter-preview"
+            },
+            {
+                "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+                "publisherId": "ms-python.python",
+                "publisherName": "ms-python",
+                "version": "2020.7.94776",
+                "name": "python"
+            },
+            {
+                "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+                "publisherId": "ms-vscode-remote.remote-wsl",
+                "publisherName": "ms-vscode-remote",
+                "version": "0.44.4",
+                "name": "remote-wsl"
+            },
+            {
+                "id": "cc7d2112-5178-4472-8e0e-25dced95e7f0",
+                "publisherId": "ms-vscode.hexeditor",
+                "publisherName": "ms-vscode",
+                "version": "1.1.0",
+                "name": "hexeditor"
+            },
+            {
+                "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+                "publisherId": "msjsdiag.debugger-for-chrome",
+                "publisherName": "msjsdiag",
+                "version": "4.12.9",
+                "name": "debugger-for-chrome"
+            },
+            {
+                "id": "b9484b93-0531-4fd3-b3dd-9ff58dcfe678",
+                "publisherId": "natqe.reload",
+                "publisherName": "natqe",
+                "version": "0.0.6",
+                "name": "reload"
+            },
+            {
+                "id": "568a8977-8469-4f89-b30d-8d5e3c7a0ce7",
+                "publisherId": "negokaz.live-server-preview",
+                "publisherName": "negokaz",
+                "version": "0.1.4",
+                "name": "live-server-preview"
+            },
+            {
+                "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+                "publisherId": "octref.vetur",
+                "publisherName": "octref",
+                "version": "0.24.0",
+                "name": "vetur"
+            },
+            {
+                "id": "a9151cd6-3338-48bc-bc6e-ba97e22489dd",
+                "publisherId": "Perkovec.emoji",
+                "publisherName": "Perkovec",
+                "version": "0.0.3",
+                "name": "emoji"
+            },
+            {
+                "id": "5db78037-f674-459f-a236-db622c427c5b",
+                "publisherId": "PKief.material-icon-theme",
+                "publisherName": "PKief",
+                "version": "4.2.0",
+                "name": "material-icon-theme"
+            },
+            {
+                "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+                "publisherId": "ritwickdey.LiveServer",
+                "publisherName": "ritwickdey",
+                "version": "5.6.1",
+                "name": "LiveServer"
+            },
+            {
+                "id": "84d4a562-c19b-4b30-b8f8-8e02eaf02fa2",
+                "publisherId": "sandcastle.vscode-open",
+                "publisherName": "sandcastle",
+                "version": "0.1.0",
+                "name": "vscode-open"
+            },
+            {
+                "id": "c919f1b2-3705-431b-9cfd-bb0f6f3c9720",
+                "publisherId": "softwaredotcom.swdc-vscode",
+                "publisherName": "softwaredotcom",
+                "version": "2.2.32",
+                "name": "swdc-vscode"
+            },
+            {
+                "id": "687728d4-a337-4ea9-8a33-2297b2ce1391",
+                "publisherId": "spikespaz.vscode-smoothtype",
+                "publisherName": "spikespaz",
+                "version": "1.2.0",
+                "name": "vscode-smoothtype"
+            },
+            {
+                "id": "70378119-1d85-4935-9733-0298c7a369a2",
+                "publisherId": "steoates.autoimport",
+                "publisherName": "steoates",
+                "version": "1.5.3",
+                "name": "autoimport"
+            },
+            {
+                "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+                "publisherId": "streetsidesoftware.code-spell-checker",
+                "publisherName": "streetsidesoftware",
+                "version": "1.9.0",
+                "name": "code-spell-checker"
+            },
+            {
+                "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
+                "publisherId": "stylelint.vscode-stylelint",
+                "publisherName": "stylelint",
+                "version": "0.84.0",
+                "name": "vscode-stylelint"
+            },
+            {
+                "id": "5178733e-4b02-4829-95c5-1ce970847c23",
+                "publisherId": "teabyii.ayu",
+                "publisherName": "teabyii",
+                "version": "0.20.1",
+                "name": "ayu"
+            },
+            {
+                "id": "fef63133-dae3-40fb-b81d-6da7617b4b1e",
+                "publisherId": "techer.open-in-browser",
+                "publisherName": "techer",
+                "version": "2.0.0",
+                "name": "open-in-browser"
+            },
+            {
+                "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+                "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+                "publisherName": "VisualStudioExptTeam",
+                "version": "1.2.9",
+                "name": "vscodeintellicode"
+            },
+            {
+                "id": "0e8e71fb-6b26-4602-8e4a-1741a7b40a08",
+                "publisherId": "Wscats.eno",
+                "publisherName": "Wscats",
+                "version": "2.3.2",
+                "name": "eno"
+            },
+            {
+                "id": "8bd90cfe-8edd-4b92-b992-2337fdc06604",
+                "publisherId": "wwm.better-align",
+                "publisherName": "wwm",
+                "version": "1.1.6",
+                "name": "better-align"
+            },
+            {
+                "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+                "publisherId": "zhuangtongfa.material-theme",
+                "publisherName": "zhuangtongfa",
+                "version": "3.8.3",
+                "name": "material-theme"
+            }
+        ]
+    },
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "default",
+            "filenamePattern": "*.txt"
+        },
+        {
+            "viewType": "imagePreview.previewEditor",
+            "filenamePattern": "*.jpg"
+        }
+    ],
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#80CBC4",
+        "activityBar.activeBorder": "#80CBC4",
+        "list.activeSelectionForeground": "#80CBC4",
+        "list.inactiveSelectionForeground": "#80CBC4",
+        "list.highlightForeground": "#80CBC4",
+        "scrollbarSlider.activeBackground": "#80CBC450",
+        "editorSuggestWidget.highlightForeground": "#80CBC4",
+        "textLink.foreground": "#80CBC4",
+        "progressBar.background": "#80CBC4",
+        "pickerGroup.foreground": "#80CBC4",
+        "tab.activeBorder": "#80CBC4",
+        "notificationLink.foreground": "#80CBC4",
+        "editorWidget.resizeBorder": "#80CBC4",
+        "editorWidget.border": "#80CBC4",
+        "settings.modifiedItemIndicator": "#80CBC4",
+        "settings.headerForeground": "#80CBC4",
+        "panelTitle.activeBorder": "#80CBC4",
+        "breadcrumb.activeSelectionForeground": "#80CBC4",
+        "menu.selectionForeground": "#80CBC4",
+        "menubar.selectionForeground": "#80CBC4",
+        "editor.findMatchBorder": "#80CBC4",
+        "selection.background": "#80CBC440",
+        "statusBarItem.remoteBackground": "#80CBC4"
+    },
+    "terminal.integrated.rendererType": "dom",
+    "materialTheme.accent": "Teal",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "prettier.useTabs": true,
+    "terminal.integrated.cursorBlinking": true,
+    "search.seedWithNearestWord": true,
+    "smoothtype.duration": 70,
+    "diffEditor.maxComputationTime": 4000,
+    "editor.minimap.size": "fill",
+    "editor.renderWhitespace": "all",
+    "vscode_vibrancy.opacity": 0.4,
+    "vscode_vibrancy.theme": "Dark (Only Subbar)",
+    "files.trimTrailingWhitespace": true,
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled": true,
+    "editor.columnSelection": false,
+    "editor.multiCursorModifier": "alt",
+    "editor.wordWrap": "on",
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.parameterHints.cycle": true
+}
